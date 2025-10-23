@@ -1,5 +1,3 @@
-# AtreidesStrategy
-"Site oficial da Atreides-Strategy-painel de investimentos"
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
